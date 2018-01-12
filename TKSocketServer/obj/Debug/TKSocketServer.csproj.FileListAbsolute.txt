@@ -1,2 +1,3 @@
 c:\users\tuky\documents\visual studio 2013\Projects\TKSocketServer\TKSocketServer\bin\Debug\TKSocketServer.exe.config
 E:\MyProject\TKSocketServer\TKSocketServer\bin\Debug\TKSocketServer.exe.config
+D:\Tuky\DailyTime\TKSocketServer\TKSocketServer\bin\Debug\TKSocketServer.exe.config
